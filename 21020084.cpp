@@ -9,7 +9,7 @@ using std::string;
 
 int main() {
   cout << "Hello world!" << '\n';
-  cout << "Try to pull\n";
+//   cout << "Try to pull\n";
 
   return 0;
 }
